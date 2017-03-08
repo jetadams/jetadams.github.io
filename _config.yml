@@ -235,7 +235,7 @@ compress_html:
 collections:
     tfbaott:
         output: true
-        permalink: /tfbaott/:path/:title/
+        permalink: /tfbaott/:title/
     
 # Defaults
 defaults:
