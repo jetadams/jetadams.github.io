@@ -1,5 +1,5 @@
 ---
-title: The First Big Adventure of Tommy Twist - Table of Contents
+title: ToC
 date: 2017-03-08
 header:
   overlay_image: /assets/images/yosemite.jpg
