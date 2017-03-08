@@ -260,7 +260,7 @@ defaults:
       share: true
   # tfbaott
   - scope:
-      path: "_books"
+      path: ""
       type: books
     values:
       layout: single
