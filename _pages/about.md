@@ -2,7 +2,7 @@
 title: About Jeremy and His Book Blog
 permalink: /about/
 tags: [about, Jeremy, Adams, responsive]
-date: 2017-3-8
+date: 2017-03-08
 image:
   feature: yosemite.jpg
   credit: Jeremy Adams
