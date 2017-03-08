@@ -1,7 +1,7 @@
 ---
 title: About Jeremy and His Book Blog
 permalink: /about/
-tags: [about, Jeremy, Adams, responsive]
+tags: [about, Jeremy, Adams]
 date: 2017-03-08
 header:
   overlay_image: /assets/images/yosemite.jpg
