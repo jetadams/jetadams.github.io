@@ -231,6 +231,12 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+    - tfbaott
+    output: true
+    
+    
 # Defaults
 defaults:
   # _posts
@@ -248,6 +254,14 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # tfbaott
+  - scope:
+      path: "_tfbaott"
+      type: tfbaott
     values:
       layout: single
       author_profile: true
