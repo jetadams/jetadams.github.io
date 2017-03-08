@@ -233,9 +233,9 @@ compress_html:
 
 # Collections
 collections:
-    tfbaott:
+    books:
         output: true
-        permalink: /tfbaott/:path/:title.:output_ext
+        permalink: /books/:path/:title.:output_ext
     
 # Defaults
 defaults:
@@ -260,8 +260,8 @@ defaults:
       share: true
   # tfbaott
   - scope:
-      path: "_tfbaott"
-      type: tfbaott
+      path: "_books"
+      type: books
     values:
       layout: single
       author_profile: true
