@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "JETAdams"
+title                    : "Jet Adams B'Blog"
 title_separator          : "-"
-name                     : "JET Adams"
+name                     : "Jeremy Adams"
 description              : "Home of The First Big Adventure of Tommy Twist."
 url                      : http://www.jetadams.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jeremy Adams"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an amazing person."
+  bio              : Some random author trying to share his stories.
   location         : #"Somewhere"
   email            :
   uri              :
