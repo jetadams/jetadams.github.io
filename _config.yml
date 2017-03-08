@@ -233,7 +233,7 @@ compress_html:
 
 # Collections
 collections:
-    Books:
+    books:
         output: true
         permalink: /books/:title/
     
@@ -258,10 +258,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # Books
+  # books
   - scope:
       path: "_books"
-      type: Books
+      type: books
     values:
       layout: single
       author_profile: true
