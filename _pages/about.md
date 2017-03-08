@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About Jeremy and His Book Blog
 permalink: /about/
 tags: [about, Jeremy, Adams, responsive]
