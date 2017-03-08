@@ -233,7 +233,7 @@ compress_html:
 
 # Collections
 collections:
-    tfbaott:
+    The_First_Big_Adventure_of_Tommy_Twist:
         output: true
         permalink: /tfbaott/:title/
     
@@ -261,7 +261,7 @@ defaults:
   # tfbaott
   - scope:
       path: "_tfbaott"
-      type: tfbaott
+      type: The_First_Big_Adventure_of_Tommy_Twist
     values:
       layout: single
       author_profile: true
