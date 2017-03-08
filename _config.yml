@@ -260,10 +260,10 @@ defaults:
       share: true
   # tfbaott
   - scope:
+      label: "The First Big Adventure of Tommy Twist"
       path: "_tfbaott"
       type: tfbaott
     values:
-      label: "The First Big Adventure of Tommy Twist"
       layout: single
       author_profile: true
       share: true
