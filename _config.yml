@@ -233,10 +233,9 @@ compress_html:
 
 # Collections
 collections:
-    tfbaott:
-        label: "The First Big Adventure of Tommy Twist"
+    Books:
         output: true
-        permalink: /tfbaott/:title/
+        permalink: /books/:title/
     
 # Defaults
 defaults:
@@ -259,10 +258,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # tfbaott
+  # Books
   - scope:
-      path: "_tfbaott"
-      type: tfbaott
+      path: "_books"
+      type: Books
     values:
       layout: single
       author_profile: true
