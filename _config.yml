@@ -234,6 +234,7 @@ compress_html:
 # Collections
 collections:
     tfbaott:
+        label: "The First Big Adventure of Tommy Twist"
         output: true
         permalink: /tfbaott/:title/
     
@@ -260,7 +261,6 @@ defaults:
       share: true
   # tfbaott
   - scope:
-      label: "The First Big Adventure of Tommy Twist"
       path: "_tfbaott"
       type: tfbaott
     values:
