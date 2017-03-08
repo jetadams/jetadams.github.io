@@ -235,7 +235,7 @@ compress_html:
 collections:
     books:
         output: true
-        permalink: /books/:path/:title.:output_ext
+        permalink: /books/:path/:title/
     
 # Defaults
 defaults:
