@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeremy Adams"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Freelance author and self-professed geek!"
   location         : #"Somewhere"
   email            :
