@@ -34,7 +34,7 @@ Lang was beside himself (because that’s how hemispheres are situated after all
 
 So here we are! I actually wrote a book. It’s a long story (not the book), but I steered clear of getting it published. Lang and Ren are back to their old fighting selves and I still find that we lean towards technical contract work, though now it’s only on a part time basis. The rest of my time is spent being a dad, a husband, a friend, and nurturing Ren back to health. 
 
-It was actually Lang’s logic that came to our most recent realization, “that if a book is written but never read, does it actually exist?” We unanimously answered “no.” And that’s the point of this website. I’m going to start releasing the chapters of my book for anyone who cares to read it. I make no claim of it being well written or of literary value. It is however free of charge (I still retain the copyright, so please don’t duplicate or claim it as your own). If you enjoy it, please consider donating. 
+It was actually Lang’s logic that came to our most recent realization that, *“if a book is written but never read, does it actually exist?”* We unanimously answered “no.” And that’s the point of this website. I’m going to start releasing the chapters of my book for anyone who cares to read it. I make no claim of it being well written or of literary value. It is however free of charge (I still retain the copyright, so please don’t duplicate or claim it as your own). If you enjoy it, please consider donating. 
 
 When I’m done reformatting and posting the final chapter for the web (you can thank Lang for our ability to do that) then who knows?! I can already hear Ren revving up to shout his favorite line, “let’s do it again!”
 
