@@ -237,7 +237,7 @@ collections:
     tfbaott:
         output: true
         permalink: /tfbaott/:title/
-        longname: The First Big Adventure of Tommy Twist
+        # longname: The First Big Adventure of Tommy Twist
     
 # Defaults
 defaults:
