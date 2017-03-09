@@ -16,12 +16,12 @@ Cover art made by Jeremy Adams and George Loch
 
 
 
-Dedicated to all those people
-stretching to reach their dreams.
-To those who want to grasp the moon,
-and those who want to hold the stars.
-Spread your wings and soar
-to whatever heights you've set.
+Dedicated to all those people<br>
+stretching to reach their dreams.<br>
+To those who want to grasp the moon,<br>
+and those who want to hold the stars.<br>
+Spread your wings and soar<br>
+to whatever heights you've set.<br>
 
 
 
