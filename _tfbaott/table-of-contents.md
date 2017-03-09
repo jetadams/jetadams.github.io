@@ -29,9 +29,9 @@ to whatever heights you've set.<br>
 # Contents
 
 ## Chapter 1 - Lienhar
-## Chapter 2 - Tommy Twist
-## Chapter 3 - Good Things
-## Chapter 4 - The Visitors
+### Chapter 2 - Tommy Twist
+#### Chapter 3 - Good Things
+##### Chapter 4 - The Visitors
 ## Chapter 5 - The Manager
 ## Chapter 6 - The Metaparlance Decipherer
 ## Chapter 7 - Capture
