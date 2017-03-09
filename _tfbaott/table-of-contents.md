@@ -1,5 +1,6 @@
 ---
 title: Contents
+excerpt: Includes the copyright, dedication, and table of contents
 date: 2017-03-08
 header:
   image: /assets/images/tfbaottcover.jpg
