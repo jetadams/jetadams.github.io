@@ -1,5 +1,5 @@
 ---
-title: Table of Contents
+title: Contents
 date: 2017-03-08
 header:
   image: /assets/images/tfbaottcover.jpg
@@ -26,7 +26,7 @@ to whatever heights you've set.<br>
 
 
 
-# Contents
+# Table of Contents
 
 ### Chapter 1 - Lienhar
 ### Chapter 2 - Tommy Twist
