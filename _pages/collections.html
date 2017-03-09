@@ -13,7 +13,11 @@ author_profile: true
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
 		{% capture longname %}{{ collection.longname }}{% endcapture %}
-		<h2 id="{{ label | slugify }}" class="archive__subtitle">{{ longname }}</h2>
+		{% if longname != written_label %}
+			<h2 id="{{ label | slugify }}" class="archive__subtitle">{{ longname }}</h2>
+		{% else %}
+			<h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+		{% endif %}
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
