@@ -29,7 +29,7 @@ to whatever heights you've set.<br>
 
 # Table of Contents
 
-**Chapter 1** *Lienhar*<br>
+[**Chapter 1** *Lienhar*](http://www.jetadams.com/tfbaott/chapter1/)<br>
 **Chapter 2** *Tommy Twist*<br>
 **Chapter 3** *Good Things*<br>
 **Chapter 4** *The Visitors*<br>
