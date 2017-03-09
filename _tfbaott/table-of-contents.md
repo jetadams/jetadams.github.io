@@ -29,22 +29,22 @@ to whatever heights you've set.<br>
 
 # Table of Contents
 
-### Chapter 1 *Lienhar*
-### Chapter 2 *Tommy Twist*
-### Chapter 3 *Good Things*
-### Chapter 4 *The Visitors*
-### Chapter 5 *The Manager*
-### Chapter 6 *The Metaparlance Decipherer*
-### Chapter 7 *Capture*
-### Chapter 8 *Klibold's Designs*
-### Chapter 9 *Breakout*
-### Chapter 10 *Reality Check*
-### Chapter 11 *A Friend*
-### Chapter 12 *The Operations Center*
-### Chapter 13 *History of IBoMB*
-### Chapter 14 *The Merger*
-### Chapter 15 *To Save a Planet*
-### Chapter 16 *The Meeting*
-### Chapter 17 *Rescue*
-### Chapter 18 *Home*
-### Chapter 19 *The End?*
+**Chapter 1** *Lienhar*<br>
+**Chapter 2** *Tommy Twist*<br>
+**Chapter 3** *Good Things*<br>
+**Chapter 4** *The Visitors*<br>
+**Chapter 5** *The Manager*<br>
+**Chapter 6** *The Metaparlance Decipherer*<br>
+**Chapter 7** *Capture*<br>
+**Chapter 8** *Klibold's Designs*<br>
+**Chapter 9** *Breakout*<br>
+**Chapter 10** *Reality Check*<br>
+**Chapter 11** *A Friend*<br>
+**Chapter 12** *The Operations Center*<br>
+**Chapter 13** *History of IBoMB*<br>
+**Chapter 14** *The Merger*<br>
+**Chapter 15** *To Save a Planet*<br>
+**Chapter 16** *The Meeting*<br>
+**Chapter 17** *Rescue*<br>
+**Chapter 18** *Home*<br>
+**Chapter 19** *The End?*<br>
