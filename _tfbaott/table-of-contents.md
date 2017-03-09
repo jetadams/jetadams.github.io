@@ -9,7 +9,6 @@ Recommended for ages 4 and up. WARNING: CHOKING HAZARD. May contain pieces that 
 
 
 Copyright &copy; 2017 by Jeremy Adams.
-
 All rights reserved. This book, or parts thereof, may not be reproduced in any form without permission.
 
 
@@ -18,15 +17,10 @@ Cover art made by Jeremy Adams and George Loch
 
 
 Dedicated to all those people
-
 stretching to reach their dreams.
-
 To those who want to grasp the moon,
-
 and those who want to hold the stars.
-
 Spread your wings and soar
-
 to whatever heights you've set.
 
 
