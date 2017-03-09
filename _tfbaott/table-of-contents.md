@@ -1,4 +1,5 @@
 ---
+collection: The First Big Adventure of Tommy Twist
 title: Table of Contents
 date: 2017-03-08
 header:

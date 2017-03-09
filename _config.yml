@@ -261,6 +261,7 @@ defaults:
       share: true
   # tfbaott
   - scope:
+      path: "_tfbaott"
       type: tfbaott
     values:
       layout: single
