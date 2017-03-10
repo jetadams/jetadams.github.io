@@ -5,8 +5,6 @@ header:
   image: /assets/images/tfbaottcover.jpg
 ---
 
-<br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Forever the rich, and forget the poor.” Lehnair remembered those words from one of his father's numerous lectures. “You've got purple-skin, so learn your place.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He peeled his single large eye open. It was still dark of course, as you'd expect being on a planet so distant from a star.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why couldn't someone install some lamps around this place,” came the thought.<br>
