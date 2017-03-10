@@ -26,6 +26,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The house wasn’t large, but it was well cared for. Having any number of guests over would fill up the entire dining room, which was actually a corner next to the kitchen with a small oval table. The simple wood chairs were arranged so that company would have more elbow room than anyone else. The “lefties,” Tommy and his Dad, would sit next to each other on one side, and Mom, the right-handed person in the family, would be at one the heads of the table.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It was the same bustling mood that occurs whenever a group of Ravenous Bark-Dwellers find themselves a fresh tree to consume. Tommy didn't understand the anxiety, since, to him, this kind of visit was a regular occurrence by now. People from Dad's work never actually stayed for dinner. They never even came into the house when they were invited. The doorbell would ring, they would drop off a green envelope and then leave. This was the first time that Tommy would see them though, as after-school volleyball practice had come to an end. It was dreadful to think that his parents might be doing all of this to show him off as their “pride and joy.” In truth, he probably was, but didn't appreciate the extra attention. No matter, he was looking forward to the better-than-normal meal they'd get to eat after it was declined by the visitors.<br>
 
-...**Chapter 3** *Good Things* (Coming soon!)
+...*on to* **Chapter 3** *Good Things* (Coming soon!)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
