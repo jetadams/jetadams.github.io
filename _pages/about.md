@@ -4,8 +4,7 @@ permalink: /about/
 tags: [about, Jeremy, Adams]
 date: 2017-03-08
 header:
-  overlay_image: /assets/images/yosemite.jpg
-  caption: "Photo Credit: Jeremy Adams"
+  image: /assets/images/tfbaottcover.jpg
 ---
 
 Like most people (because there are always exceptions) I was born with two hemispheres that made up one entire brain. The one on the left, we’ll call him *Lang*, was bestowed with great technical prowess and a desire to fix things. The one on the right, we’ll call him *Ren*, was given a love of all things beautiful and a rather ridiculous sense of humor. Lang and Ren began life on equal footing, or at least, with equal control over a single foot that they understood was attached somewhere downhill of their single round room inside my cranium. 
