@@ -5,11 +5,11 @@ header:
   image: /assets/images/tfbaottcover.jpg
 ---
 
-ìForever the rich, and forget the poor.î Lehnair remembered those words from one of his father's numerous lectures. ìYou've got purple-skin, so learn your place.î 
+‚ÄúForever the rich, and forget the poor.‚Äù Lehnair remembered those words from one of his father's numerous lectures. ‚ÄúYou've got purple-skin, so learn your place.‚Äù 
 
 He peeled his single large eye open. It was still dark of course, as you'd expect being on a planet so distant from a star. 
 
-ìWhy couldn't someone install some lamps around this place,î came the thought. 
+‚ÄúWhy couldn't someone install some lamps around this place,‚Äù came the thought. 
 
 That was his life though. Dark, dim, and never lighting up to a shining moment. You could blame his squalor on his mother had he ever met her. Or maybe on his Father had he ever listened to anything the old man taught him. As it was, he only took half of it seriously, the part about the poor being forgotten.
 
@@ -17,38 +17,38 @@ Lehnair took his time getting out of bed, spending a generous few minutes stretc
 
 Reaching for his crumpled jumpsuit, he thought about how nice it would be to own a different set of clothes for each day of the week. A second shirt, a pair of pants, or perhaps even a business suit. Then he wouldn't have to worry about how bad his sweat ridden uniform smelled each time he put it on. The odor blended in with the rest of the purple-skins and was the brunt of the green-skin's cruel jokes. 
 
-Lehnair huffed out mockingly, ìwhy do you all have to smell so bad? Why can't you learn to clean yourselves for once?î Whatever. One day very soon, things were going to change.
+Lehnair huffed out mockingly, ‚Äúwhy do you all have to smell so bad? Why can't you learn to clean yourselves for once?‚Äù Whatever. One day very soon, things were going to change.
 
 
 	
-The first thing he heard stepping onto the factory floor was the Foreman screaming at him, ìNumber 575! You're two minutes late! Get to work before we decide to drop you into that black-hole!î
+The first thing he heard stepping onto the factory floor was the Foreman screaming at him, ‚ÄúNumber 575! You're two minutes late! Get to work before we decide to drop you into that black-hole!‚Äù
 
 The shop reeked and even Lehnair had to wrinkle his nose as he walked further in. Sweat, burnt chemicals, and something that was probably mold from condensation on the factory walls all mixed together into a pungent aroma.
 
-Surveying today's pile of junk on his workbench he sat down in his assigned seat. With his large upper hands he hefted a metallic casing while his smaller, more agile hands strung the wiring between each piece underneath. ìI'd like to see some two-armed green-skin try that,î Lehnair whispered under his breath so only his neighbors could enjoy a silent chuckle. 
+Surveying today's pile of junk on his workbench he sat down in his assigned seat. With his large upper hands he hefted a metallic casing while his smaller, more agile hands strung the wiring between each piece underneath. ‚ÄúI'd like to see some two-armed green-skin try that,‚Äù Lehnair whispered under his breath so only his neighbors could enjoy a silent chuckle. 
 
-ìI said get to work you lazy purple-skin!î The Foreman continued shouting in random directions.
+‚ÄúI said get to work you lazy purple-skin!‚Äù The Foreman continued shouting in random directions.
 
-ìYes sir,î Lehnair and several others mumbled after each shriek. It was all they were allowed to say. Anything else could get them fired, removed from their apartment, and possibly thrown outside the only complex on the surface. A dangerous proposition considering this particular planet had no atmosphere to breathe. It was all company property, and if you don't work for the company, you've got no right being there.
+‚ÄúYes sir,‚Äù Lehnair and several others mumbled after each shriek. It was all they were allowed to say. Anything else could get them fired, removed from their apartment, and possibly thrown outside the only complex on the surface. A dangerous proposition considering this particular planet had no atmosphere to breathe. It was all company property, and if you don't work for the company, you've got no right being there.
 
-ìMr. Foreman? Uh, Mr. Foreman?î One of the purple-skins down the row was trying to get the glowering green-skin's attention. The green-skins preferred to be called by their titles.
+‚ÄúMr. Foreman? Uh, Mr. Foreman?‚Äù One of the purple-skins down the row was trying to get the glowering green-skin's attention. The green-skins preferred to be called by their titles.
 
-ìWhat?!î the Foreman's response caused the inquiring purple-skin to fall out of his chair, and gave some of the security guards a good laugh.
+‚ÄúWhat?!‚Äù the Foreman's response caused the inquiring purple-skin to fall out of his chair, and gave some of the security guards a good laugh.
 
-ìI, uh, wanted to show you something I've been working on. A new design.î
+‚ÄúI, uh, wanted to show you something I've been working on. A new design.‚Äù
 
 Lehnair shook his head. What an idiot. Though he kept his eye turned just far enough to glance at what was happening.
 
-ìLet's see it then ñ quickly! Hand it over.î
+‚ÄúLet's see it then ‚Äì quickly! Hand it over.‚Äù
 
 The purple-skin handed a few pieces of small, rectangular cloth to the Foreman. Lehnair caught a glimpse of writing and sketches etched across what had probably been pockets from the purple-skin's own clothing.
 
-ìI figured it'd be something we could ship in large quantities to Earth. I've heard they like those sorts of things.î
+‚ÄúI figured it'd be something we could ship in large quantities to Earth. I've heard they like those sorts of things.‚Äù
 
 Flipping through the pieces, the Foreman eyed them over with a greedy look that Lehnair knew all too well.
 
-After a few moments of examination, the Foreman finally responded, ìI'll take these to the boss and see what he thinks. In the meantime, get back to work 592!î
+After a few moments of examination, the Foreman finally responded, ‚ÄúI'll take these to the boss and see what he thinks. In the meantime, get back to work 592!‚Äù
 
-The Foreman walked so fast toward the boss's office that he might as well have run. Staring over at the other purple-skin, Lehnair noticed a faint smile on the worker's face. He knew better though. Poor Klibold was never going to see anything come from his design. The Foreman was undoubtedly handing the paper to the boss right now and explaining how he, himself came up with the idea, or, if he were in a generous mood, how his shift of workers came up with the idea under his own ìbrilliantî direction. 
+The Foreman walked so fast toward the boss's office that he might as well have run. Staring over at the other purple-skin, Lehnair noticed a faint smile on the worker's face. He knew better though. Poor Klibold was never going to see anything come from his design. The Foreman was undoubtedly handing the paper to the boss right now and explaining how he, himself came up with the idea, or, if he were in a generous mood, how his shift of workers came up with the idea under his own ‚Äúbrilliant‚Äù direction. 
 
 Anything designed or thought of by an employee belonged to the company. That was a rule established by the boss long before the first purple-skin was ever shipped over. Something felt slimy about it though, no matter when or how the rule was set.
