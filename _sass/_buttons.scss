@@ -122,8 +122,6 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
-  (reddit, #ff4500;)
-  (paypal, #9cb25d;)
   
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
