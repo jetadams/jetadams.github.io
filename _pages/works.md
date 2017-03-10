@@ -3,11 +3,11 @@ title: My Works
 permalink: /works/
 date: 2017-03-09
 header:
-  image: /assets/images/yosemite2.jpg
+  overlay_image: /assets/images/yosemite2.jpg
   caption: "Photo Credit: Jeremy Adams"
 ---
 
-# The Ramblings of Jeremy Adams
+# The Crazy Ramblings of Jeremy Adams
 
 [**About This Site**](http://www.jetadams.com/about/)
 
