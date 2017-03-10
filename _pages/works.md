@@ -7,7 +7,7 @@ header:
   caption: "Photo Credit: Jeremy Adams"
 ---
 
-# The Crazy Ramblings of Jeremy Adams
+# The Ramblings of Jeremy Adams
 
 [**About This Site**](http://www.jetadams.com/about/)
 
