@@ -1,5 +1,5 @@
 ---
-title: My Works
+title: My Writing
 permalink: /works/
 date: 2017-03-09
 header:
