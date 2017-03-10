@@ -14,6 +14,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I guess he'll never make Director,” Lehnair thought out with a chuckle. On his pad he scrolled down to the next screen of the New Manager Orientation Manual. “Perfect.” He had heard a worker mention it before. “MEFIRST corporate rule number four-hundred and seventy-four: all company employees and their families who witness, and perchance survive, a factory-related, catastrophic event are to be granted their choice of relocation.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Could this day have gotten any better?<br>
 
-...*on to* [**Chapter 4** *Good Things*](http://www.jetadams.com/tfbaott/chapter4/)
+...*on to* [**Chapter 4** *The Visitors*](http://www.jetadams.com/tfbaott/chapter4/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
