@@ -30,6 +30,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filling his hand with the remaining crystals, Tommy started placing them around the first. Each snapped into place and harmonized with the others. Dots of light danced around the crystals, leaping and jumping as though they had been joined by long lost friends. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prying crystals off with his fingernail, Tommy moved them to make different patterns. The sound and dancing changed with each placement. He wasn't sure why, but he felt happy, as though he were helping an old lady with her groceries or finding a lost pet for someone. Certain patterns made him feel better than others. If only he could find the best one...<br>
 
-...*on to* **Chapter 5** *The Manager*(coming soon!)
+...*on to* [**Chapter 5** *The Manager*](http://www.jetadams.com/tfbaott/chapter5/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

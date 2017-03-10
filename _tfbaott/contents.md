@@ -33,8 +33,8 @@ to whatever heights you've set.<br>
 [**Chapter 2** *Tommy Twist*](http://www.jetadams.com/tfbaott/chapter2/)<br>
 [**Chapter 3** *Good Things*](http://www.jetadams.com/tfbaott/chapter3/)<br>
 [**Chapter 4** *The Visitors*](http://www.jetadams.com/tfbaott/chapter4/)<br>
-**Chapter 5** *The Manager*<br>
-**Chapter 6** *The Metaparlance Decipherer*<br>
+[**Chapter 5** *The Manager*](http://www.jetadams.com/tfbaott/chapter5/)<br>
+[**Chapter 6** *The Metaparlance Decipherer*](http://www.jetadams.com/tfbaott/chapter6/)<br>
 **Chapter 7** *Capture*<br>
 **Chapter 8** *Klibold's Designs*<br>
 **Chapter 9** *Breakout*<br>
