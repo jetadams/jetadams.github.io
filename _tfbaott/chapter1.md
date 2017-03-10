@@ -6,7 +6,7 @@ header:
 ---
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Forever the rich, and forget the poor.” Lehnair remembered those words from one of his father's numerous lectures. “You've got purple-skin, so learn your place.”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“<font size="+2">F</font>orever the rich, and forget the poor.” Lehnair remembered those words from one of his father's numerous lectures. “You've got purple-skin, so learn your place.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He peeled his single large eye open. It was still dark of course, as you'd expect being on a planet so distant from a star.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why couldn't someone install some lamps around this place,” came the thought.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That was his life though. Dark, dim, and never lighting up to a shining moment. You could blame his squalor on his mother had he ever met her. Or maybe on his Father had he ever listened to anything the old man taught him. As it was, he only took half of it seriously, the part about the poor being forgotten.<br>
