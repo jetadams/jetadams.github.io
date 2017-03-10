@@ -37,3 +37,4 @@ It was actually Lang’s logic that came to our most recent realization that, *�
 
 When I’m done reformatting and posting the final chapter for the web (you can thank Lang for our ability to do that) then who knows?! I can already hear Ren revving up to shout his favorite line, “let’s do it again!”
 
+[**_Click here to browse my available works_**](http://www.jetadams.com/works/) and enjoy!
