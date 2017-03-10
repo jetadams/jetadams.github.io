@@ -31,8 +31,8 @@ to whatever heights you've set.<br>
 
 [**Chapter 1** *Lienhar*](http://www.jetadams.com/tfbaott/chapter1/)<br>
 [**Chapter 2** *Tommy Twist*](http://www.jetadams.com/tfbaott/chapter2/)<br>
-**Chapter 3** *Good Things*<br>
-**Chapter 4** *The Visitors*<br>
+[**Chapter 3** *Good Things*](http://www.jetadams.com/tfbaott/chapter3/)<br>
+[**Chapter 4** *The Visitors*](http://www.jetadams.com/tfbaott/chapter4/)<br>
 **Chapter 5** *The Manager*<br>
 **Chapter 6** *The Metaparlance Decipherer*<br>
 **Chapter 7** *Capture*<br>
