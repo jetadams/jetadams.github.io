@@ -30,3 +30,4 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Foreman walked so fast toward the boss's office that he might as well have run. Staring over at the other purple-skin, Lehnair noticed a faint smile on the worker's face. He knew better though. Poor Klibold was never going to see anything come from his design. The Foreman was undoubtedly handing the paper to the boss right now and explaining how he, himself came up with the idea, or, if he were in a generous mood, how his shift of workers came up with the idea under his own “brilliant” direction. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anything designed or thought of by an employee belonged to the company. That was a rule established by the boss long before the first purple-skin was ever shipped over. Something felt slimy about it though, no matter when or how the rule was set.<br>
 
+[...**Chapter 2** *Tommy Twist*](http://www.jetadams.com/tfbaott/chapter2/)
