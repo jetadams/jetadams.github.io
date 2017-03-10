@@ -1,6 +1,6 @@
 ---
-title: Books
-permalink: /books/
+title: My Works
+permalink: /works/
 date: 2017-03-09
 header:
   overlay_image: /assets/images/yosemite.jpg
