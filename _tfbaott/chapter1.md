@@ -5,25 +5,25 @@ header:
   image: /assets/images/tfbaottcover.jpg
 ---
 
-“Forever the rich, and forget the poor.” Lehnair remembered those words from one of his father's numerous lectures. “You've got purple-skin, so learn your place.” 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Forever the rich, and forget the poor.” Lehnair remembered those words from one of his father's numerous lectures. “You've got purple-skin, so learn your place.” 
 
-He peeled his single large eye open. It was still dark of course, as you'd expect being on a planet so distant from a star. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He peeled his single large eye open. It was still dark of course, as you'd expect being on a planet so distant from a star. 
 
-“Why couldn't someone install some lamps around this place,” came the thought. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why couldn't someone install some lamps around this place,” came the thought. 
 
-That was his life though. Dark, dim, and never lighting up to a shining moment. You could blame his squalor on his mother had he ever met her. Or maybe on his Father had he ever listened to anything the old man taught him. As it was, he only took half of it seriously, the part about the poor being forgotten.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That was his life though. Dark, dim, and never lighting up to a shining moment. You could blame his squalor on his mother had he ever met her. Or maybe on his Father had he ever listened to anything the old man taught him. As it was, he only took half of it seriously, the part about the poor being forgotten.
 
-Lehnair took his time getting out of bed, spending a generous few minutes stretching each of his four arms. The ceiling looked particularly normal today. Clean, and probably white, although it was gray without sunlight to reflect off of it. The beds were the most comfortable pieces of furniture in the entire structure, so why be in a hurry to get off of it?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lehnair took his time getting out of bed, spending a generous few minutes stretching each of his four arms. The ceiling looked particularly normal today. Clean, and probably white, although it was gray without sunlight to reflect off of it. The beds were the most comfortable pieces of furniture in the entire structure, so why be in a hurry to get off of it?
 
-Reaching for his crumpled jumpsuit, he thought about how nice it would be to own a different set of clothes for each day of the week. A second shirt, a pair of pants, or perhaps even a business suit. Then he wouldn't have to worry about how bad his sweat ridden uniform smelled each time he put it on. The odor blended in with the rest of the purple-skins and was the brunt of the green-skin's cruel jokes. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reaching for his crumpled jumpsuit, he thought about how nice it would be to own a different set of clothes for each day of the week. A second shirt, a pair of pants, or perhaps even a business suit. Then he wouldn't have to worry about how bad his sweat ridden uniform smelled each time he put it on. The odor blended in with the rest of the purple-skins and was the brunt of the green-skin's cruel jokes. 
 
-Lehnair huffed out mockingly, “why do you all have to smell so bad? Why can't you learn to clean yourselves for once?” Whatever. One day very soon, things were going to change.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lehnair huffed out mockingly, “why do you all have to smell so bad? Why can't you learn to clean yourselves for once?” Whatever. One day very soon, things were going to change.
 
 
 	
-The first thing he heard stepping onto the factory floor was the Foreman screaming at him, “Number 575! You're two minutes late! Get to work before we decide to drop you into that black-hole!”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first thing he heard stepping onto the factory floor was the Foreman screaming at him, “Number 575! You're two minutes late! Get to work before we decide to drop you into that black-hole!”
 
-The shop reeked and even Lehnair had to wrinkle his nose as he walked further in. Sweat, burnt chemicals, and something that was probably mold from condensation on the factory walls all mixed together into a pungent aroma.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shop reeked and even Lehnair had to wrinkle his nose as he walked further in. Sweat, burnt chemicals, and something that was probably mold from condensation on the factory walls all mixed together into a pungent aroma.
 
 Surveying today's pile of junk on his workbench he sat down in his assigned seat. With his large upper hands he hefted a metallic casing while his smaller, more agile hands strung the wiring between each piece underneath. “I'd like to see some two-armed green-skin try that,” Lehnair whispered under his breath so only his neighbors could enjoy a silent chuckle. 
 
