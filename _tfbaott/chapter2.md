@@ -4,6 +4,7 @@ date: 2017-03-09
 header:
   image: /assets/images/tfbaottcover.jpg
 ---
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“It’s what? Red!” Or so the story goes anyway. Tommy had heard it a bazillion times by now. How he was born, amazingly, with red hair. Neither of his parents had even so much of an inkling of similar coloring, but what was the amazement for? Red headed children were born to parents with different colors of hair every day. It was a matter of simple genetics.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy was now a tall, lanky, and still quite red-headed ten year-old. Well, fine, maybe not so tall, but he was so skinny that unless he were standing next to someone else his age you’d mistake him for being at least two years older than he was. Even when he was on the phone, most people assumed they were talking to another grown-up. Before he could speak he was using sign-language to communicate with his parents what he wanted: Rubbing his chest to say please, then showing his fist just right for milk, and voila! Mom and Dad knew exactly what he wanted.<br>
