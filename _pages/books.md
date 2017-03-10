@@ -9,4 +9,6 @@ header:
 
 # The Insane Works of Jeremy Adams
 
+[About This Site](http://www.jetadams.com/about/)
+
 [The First Big Adventure of Tommy Twist](http://www.jetadams.com/tfbaott/contents/)
