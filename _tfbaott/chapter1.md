@@ -53,6 +53,9 @@ The Foreman walked so fast toward the boss's office that he might as well have r
 Anything designed or thought of by an employee belonged to the company. That was a rule established by the boss long before the first purple-skin was ever shipped over. Something felt slimy about it though, no matter when or how the rule was set.
 
 
+
 [...**Chapter 2** *Tommy Twist*](http://www.jetadams.com/tfbaott/chapter2/)
+
+
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
