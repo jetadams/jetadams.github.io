@@ -47,6 +47,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I would be honored sir.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Director continued flipping through the pieces of cloth as Lehnair tapped his middle finger to his thumb, turning off the communication. With a long, drawn out sigh, Lehnair whispered, “thanks Klibold.”<br>
 
-...*on to* **Chapter 9** *Breakout*(coming soon!)
+...*on to* [**Chapter 9** *Breakout*](http://www.jetadams.com/tfbaott/chapter9)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

@@ -24,7 +24,7 @@ All rights reserved. This book, or parts thereof, may not be reproduced in any f
 [**Chapter 6** *The Metaparlance Decipherer*](http://www.jetadams.com/tfbaott/chapter6/)<br>
 [**Chapter 7** *Capture*](http://www.jetadams.com/tfbaott/chapter7/)<br>
 [**Chapter 8** *Klibold's Designs*](http://www.jetadams.com/tfbaott/chapter8/)<br>
-**Chapter 9** *Breakout*<br>
+[**Chapter 9** *Breakout*](http://www.jetadams.com/tfbaott/chapter9)<br>
 **Chapter 10** *Reality Check*<br>
 **Chapter 11** *A Friend*<br>
 **Chapter 12** *The Operations Center*<br>
