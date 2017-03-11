@@ -22,8 +22,8 @@ All rights reserved. This book, or parts thereof, may not be reproduced in any f
 [**Chapter 4** *The Visitors*](http://www.jetadams.com/tfbaott/chapter4/)<br>
 [**Chapter 5** *The Manager*](http://www.jetadams.com/tfbaott/chapter5/)<br>
 [**Chapter 6** *The Metaparlance Decipherer*](http://www.jetadams.com/tfbaott/chapter6/)<br>
-**Chapter 7** *Capture*<br>
-**Chapter 8** *Klibold's Designs*<br>
+[**Chapter 7** *Capture*](http://www.jetadams.com/tfbaott/chapter7/)<br>
+[**Chapter 8** *Klibold's Designs*](http://www.jetadams.com/tfbaott/chapter8/)<br>
 **Chapter 9** *Breakout*<br>
 **Chapter 10** *Reality Check*<br>
 **Chapter 11** *A Friend*<br>

@@ -124,6 +124,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the giant trees imploded at its base and began to fall. It was at that moment that Tommy realized one more thing he hated about being ten years old: he wasn't able to run as fast as someone full grown and taller. The tree was coming down, and Tommy was directly underneath. He ran as fast as his short legs would let him, knowing it wouldn't be fast enough with the mud pulling at his every step.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the tree came crashing down with the force of a train wreck, this, he decided, was turning out to be a really rotten day. Tommy closed his eyes and felt a huge crushing weight against his ribs and chest knocking him to the ground.<br>
 
-...*on to* **Chapter 7** *Capture* (coming soon!)
+...*on to* [**Chapter 7** *Capture*](http://www.jetadams.com/tfbaott/chapter7/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
