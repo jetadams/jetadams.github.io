@@ -5,7 +5,7 @@ header:
   image: /assets/images/tfbaottgamesheader.jpg
 ---
 
-Did you know that [*The First Big Adventure of Tommy Twist*](http://www.jetadams.com/tfbaott/contents/) originally included video games? When I began writing the book I had this crazy idea that kids who were interested in games might start reading more if I catered to their interests. It helped that I was a pretty decent programmer and knew a thing or two about 3D modeling. The idea was that children could read about Tommy’s adventures and “help” him along the way.
+Did you know that [*The First Big Adventure of Tommy Twist*](http://www.jetadams.com/tfbaott/contents/) originally included video games? When I began writing the book I had this crazy idea that kids who were interested in games might start reading more if I catered to their interests. It helped that I was a pretty decent programmer and knew a little about 3D modeling. The idea was that children could read about Tommy’s adventures and “help” him along the way.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dyk/filename.jpg" alt="">
 
