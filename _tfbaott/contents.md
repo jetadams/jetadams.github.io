@@ -4,6 +4,7 @@ excerpt: Includes the copyright, dedication, and table of contents
 date: 2017-03-08
 header:
   image: /assets/images/tfbaottcover.jpg
+  caption: Cover art by Jeremy Adams and George Loch
 ---
 
 *Recommended for ages 4 and up.* **WARNING: CHOKING HAZARD.** *May contain pieces that are hard to swallow. In fact, if you're over a certain age it may not be for you either.* 
@@ -11,20 +12,6 @@ header:
 
 **Copyright &copy; 2017 by Jeremy Adams.**<br>
 All rights reserved. This book, or parts thereof, may not be reproduced in any form without permission.
-
-
-**Cover art made by Jeremy Adams and George Loch**
-
-
-
-Dedicated to all those people<br>
-stretching to reach their dreams.<br>
-To those who want to grasp the moon,<br>
-and those who want to hold the stars.<br>
-Spread your wings and soar<br>
-to whatever heights you've set.<br>
-
-
 
 
 # Table of Contents
