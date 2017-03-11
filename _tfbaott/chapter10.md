@@ -1,0 +1,34 @@
+---
+title: Chapter 10 *Reality Check*
+date: 2017-03-11
+header:
+  image: /assets/images/tfbaottcover.jpg
+  caption: "Copyright &copy; 2017"
+---
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Wake up Thomas! It's time to get ready for school!” Mom was opening the curtains and pulling the covers off of him in one graceful movement. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waking up made the light coming into the room all that brighter, and in turn, made his eyes want to stay closed even more.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Come on Thomas! Breakfast is already cooking downstairs.”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy let himself fall out of bed. He loved learning, nothing wrong with that, but going to school was different. It was tedious. That wasn't Tommy's fault, but it wasn't the school's either.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Thomas. Get dressed!”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throwing on whatever clothes were strewn on the arm of the old recliner, Tommy hurried down to breakfast. Pancakes were the usual, and this morning was no different. He had picked up an interesting habit from someplace he couldn't remember, of drawing letters on each pancake with the syrup. This morning he wrote out “U-L-O-S-T” and then proceeded to gobble them down.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The elementary school was only a block away from his house, which would have been a nice, relaxing walk for him – except that he had to make it all the way to the high school across town. That was what made school tedious: it was the other students, all of which were older than himself. No real friends to play with, homework that he could easily finish before coming home, and unfortunately, the bully that liked to pick on the “runt” as he was often called.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy reluctantly followed his Mom out to the car and buckled in.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Do I have to go to school today?” he asked in the saddest sounding voice he could make.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What kind of a question is that? Of course you have to go to school. Unless you're feeling sick.”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He wasn't really *sick*, but certainly wasn't feeling all that well about going to school either. “Well...”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“If you're not feeling well you can stay home. Just remember that if you stay home you'll miss volleyball practice after school today.”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of course she'd have to pull that trick on him. The only thing ever worth waiting through school for was volleyball practice. Tommy would endure entire days of social torment just so he could be bussed away from the high school and participate on a local team of the Children's Volleyball League with other kids his age. Admittedly, he didn't know any of those other kids, except for his friend (more like an acquaintance) Blane who happened to live next door. There was something about jumping and hitting as hard as you can for nearly two hours though, with no one caring how well you did it, that provided an outlet for the daily tedium.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No, I'm fine,” Tommy mumbled out.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The trip to school was non-eventful. As always, his Mom dropped him off near the main entrance with a kiss and an “I love you,” and then waited until he was inside to drive off. Most kids would feel embarrassed to have their Mom kiss them in front of their peers, but Tommy was already so different from the rest that he had given up long ago on gaining any sort of popularity. Besides, with his ever-empty group of friends, Mom and Dad were the center of his social universe. They were the ones who cheered him on at volleyball games, the ones who approved (although discouragingly) his grade skipping, and they were the ones who were always there to give him a hug whenever he felt low. “Like now,” he supposed.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rarely is it a good sign to have the first class of the day be the one to go so wrong. It was English, and they had a creative writing assignment due. Tommy always preferred the science and math classes over language and arts, but that never stopped him from doing his best on an assignment. They were told to write a one page short story, but since he had found so much spare time during the last week, he just kept writing. Sixteen pages worth, and all single-spaced.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having written that much actually made Tommy feel quite a sense of achievement. Language and arts had never been a strong subject, but he liked to push himself to see what he was capable of. And today was full of surprises, because not even five minutes after handing in the paper, the teacher requested that Tommy take the rest of the period to read his story, out loud, to the *whole* class.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Why would she put him on the spot like that? The teachers liked to show off the “smart little guy,” but didn't they know how that made his social life even worse? Maybe it was because the teacher hadn't prepared anything else for the day's class? Whatever. It didn't matter, since he always had to do what the teacher said anyway. So, with a reluctant rolls of his eyes, he stood up and started reading the paper, the whole time listening to the snickers and feeling the glares of his classmates.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As he turned to the second page, he could feel the laughs increase and the looks focus. The teacher spoke out, “quiet everyone! This is a good story that Mr. Twist has written, and you should all be appreciative of his willingness to share it with us.” It *really* didn't help for her to say that, especially since she made it sound like he *wanted* to be up in front of the class.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After a couple more pages, one of the larger students guffawed, causing a roar of laughter to spread through the classroom like a wave. Tommy stood there, silent, trying not to cry as some of the kids jeered out, “look at the runt!” <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glancing down past his handful of papers, a wave of dread swept over him as Tommy noticed he was still wearing his pajamas, decorated from neck to ankle in multicolored, one-eyed aliens and cylindrical spaceships. He could have sworn he had put on some clothes before running down the stairs this morning! And why wouldn't his Mom have said something in the car? Or the teacher when he came into class? The laughs got louder and louder until Tommy burst out of the classroom and headed straight for his hiding place – the second stall from the left in the boy's restroom.<br>
+
+...*on to* [**Chapter 11** *A Friend*](http://www.jetadams.com/tfbaott/chapter11/)
+
+[**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

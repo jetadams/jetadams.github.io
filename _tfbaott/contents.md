@@ -25,9 +25,9 @@ All rights reserved. This book, or parts thereof, may not be reproduced in any f
 [**Chapter 7** *Capture*](http://www.jetadams.com/tfbaott/chapter7/)<br>
 [**Chapter 8** *Klibold's Designs*](http://www.jetadams.com/tfbaott/chapter8/)<br>
 [**Chapter 9** *Breakout*](http://www.jetadams.com/tfbaott/chapter9)<br>
-**Chapter 10** *Reality Check*<br>
-**Chapter 11** *A Friend*<br>
-**Chapter 12** *The Operations Center*<br>
+[**Chapter 10** *Reality Check*](http://www.jetadams.com/tfbaott/chapter10)<br>
+[**Chapter 11** *A Friend*](http://www.jetadams.com/tfbaott/chapter11)<br>
+[**Chapter 12** *The Operations Center*](http://www.jetadams.com/tfbaott/chapter12)<br>
 **Chapter 13** *History of IBoMB*<br>
 **Chapter 14** *The Merger*<br>
 **Chapter 15** *To Save a Planet*<br>

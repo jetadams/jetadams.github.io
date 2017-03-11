@@ -103,6 +103,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Actually, considering he had been unconscious for some amount of time, his parents may have already called the police, suspecting that he had ran away or been kidnapped! If the police could find him here he would gladly face any punishment they doled out.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy searched for a spot to hide. With so many boxes and such a large area, it wasn't a problem. He climbed into a half empty box and curled into a ball. If he couldn't be home, at least he could dream about it.<br>
 
-...*on to* **Chapter 10** *Reality Check*(coming soon!)
+...*on to* [**Chapter 10** *Reality Check*](http://www.jetadams.com/tfbaott/chapter10/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
