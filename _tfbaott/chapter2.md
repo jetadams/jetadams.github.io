@@ -3,6 +3,7 @@ title: Chapter 2 *Tommy Twist*
 date: 2017-03-09
 header:
   image: /assets/images/tfbaottcover.jpg
+  caption: "Copyright &copy; 2017"
 ---
 <br>
 
