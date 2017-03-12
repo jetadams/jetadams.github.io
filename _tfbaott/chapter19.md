@@ -35,9 +35,11 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Beginning fold.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The police officers stood silent, wondering where the little freezing boy could have run off to.<br>
 
-...to be continued, someday, in **_Tommy vs. the Time Bandit_**
+<center>&#42;&#42;&#42;</center>
 
-**A Little Poem**
+<center>...to be continued, someday, in **_Tommy vs. the Time Bandit_**</center>
+
+**A Little Poem**<br>
 Many creatures there are,<br>
 Seeking a path in life,<br>
 two I wish to speak of,<br>
