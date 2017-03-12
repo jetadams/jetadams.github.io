@@ -37,7 +37,7 @@ header:
 
 <center>&#42;&#42;&#42;</center>
 
-<center>...to be continued, someday, in **_Tommy vs. the Time Bandit_**</center>
+<center>...to be continued, someday, in<br><b><u>Tommy vs. the Time Bandit</u></b></center>
 
 **A Little Poem**<br>
 Many creatures there are,<br>
