@@ -7,8 +7,6 @@ header:
 
 Did you know that [*The First Big Adventure of Tommy Twist*](http://www.jetadams.com/tfbaott/contents/) originally included video games? When I began writing the book I had this crazy idea that kids who were interested in games might start reading more if I catered to their interests. It helped that I was a pretty decent programmer and knew a little about 3D modeling. The idea was that children could read about Tommy’s adventures and “help” him along the way.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dyk/filename.jpg" alt="">
-
 That is also what contributed to a real schism in my writing confidence.
 
 After the games and the first draft were mostly complete I began putting them “out there” for others to see. At one particular writers conference some “important people” took an interest in what I had. I was told that “the writing certainly needed work” and that “we needed to determine the best way to package the games with the book.” This led to some testing. Over and over again, I found that, for the most part, the video games were the center of attention. The most common question I was asked was, “how do you solve the first game?” I always replied with, “the answer is right there in the book.”
