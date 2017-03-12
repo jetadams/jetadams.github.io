@@ -91,6 +91,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the first time, Tommy noticed that when Leij spoke to him, the wristband wasn't translating. She spoke English. The wristband only vibrated when she spoke to Sabreen.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy lifted his chair up off the floor and climbed back in. By following the same movements as the other aliens he learned how to point to what he wanted and have it zoom across the room for closer inspection. Galaxies became solar systems, solar systems became planets, planets became cities. There were strange lines that connected some planets to others, and symbols that made a path from one location to the next. What had Leij said he needed to do? Oh yes, track the history of someone named “Lehnair”...<br>
 
-...*on to* **Chapter 13** *History of IBoMB*(coming soon!)
+...*on to* **Chapter 13** *History of IBoMB*(http://www.jetadams.com/tfbaott/chapter13/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
