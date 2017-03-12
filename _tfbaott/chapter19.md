@@ -37,8 +37,9 @@ header:
 
 <center>&#42;&#42;&#42;</center>
 
-<center>...to be continued, someday, in<br><b><u>Tommy vs. the Time Bandit</u></b></center>
+<center>...to be continued, someday, in<br><b><i>Tommy vs. the Time Bandit</i></b></center>
 
+<br><br>
 **A Little Poem**<br>
 Many creatures there are,<br>
 Seeking a path in life,<br>
@@ -69,4 +70,3 @@ So sad was Strife at that time,<br>
 if only he had learned before:<br>
 For forever are the rich,<br>
 And forgotten are the poor.<br>
-</center>
