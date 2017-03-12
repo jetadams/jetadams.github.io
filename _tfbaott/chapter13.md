@@ -32,6 +32,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“It's alright. Please, keep reading,” Leij interrupted in something a bit more than a whisper.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peering back at the book, while keeping one eye on the aliens, he started reading the final memory segment:<br>
 
-...*on to* **Chapter 14** *The Merger*(http://www.jetadams.com/tfbaott/chapter14/)
+...*on to* [**Chapter 14** *The Merger*](http://www.jetadams.com/tfbaott/chapter14/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

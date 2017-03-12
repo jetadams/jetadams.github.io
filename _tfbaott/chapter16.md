@@ -112,6 +112,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I'm back,” the wristband replied. “Let's go save our friend!”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy grabbed a few pieces of the currency as they floated to the ground. “I've got an idea.”<br>
 
-...*on to* **Chapter 17** *Rescue*(http://www.jetadams.com/tfbaott/chapter17/)
+...*on to* [**Chapter 17** *Rescue*](http://www.jetadams.com/tfbaott/chapter17/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

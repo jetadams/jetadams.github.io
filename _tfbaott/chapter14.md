@@ -59,6 +59,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Understood,” Lehnair spoke as Glibs exited the room.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lehnair looked further down, examining a single crystal he was still fingering in his lower-right hand under the desk.<br>
 
-...*on to* **Chapter 15** *To Save a Planet*(http://www.jetadams.com/tfbaott/chapter15/)
+...*on to* [**Chapter 15** *To Save a Planet*](http://www.jetadams.com/tfbaott/chapter15/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

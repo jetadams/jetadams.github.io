@@ -56,6 +56,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“So I guess that means, *he* lost?” Sabreen chuckled, causing several of the aliens to snicker. Tommy realized they were making fun of the way *Earthlings* pronounced it.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Letting out a small laugh, Leij directed everyone back towards the door, “come on you two, we need to get you back to your parents.”<br>
 
-...*on to* **Chapter 18** *Home*(http://www.jetadams.com/tfbaott/chapter18/)
+...*on to* [**Chapter 18** *Home*](http://www.jetadams.com/tfbaott/chapter18/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

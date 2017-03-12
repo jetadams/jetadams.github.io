@@ -63,6 +63,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Letting out a surprising laugh, Tommy pushed his chair out and ran around the table to give his Dad a hug. “Thank you! Thank you SO much!”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leij choked so hard that she had to spit some of her chicken into a napkin. His Mom and Dad didn't know what to think.<br>
 
-...*on to* **Chapter 19** *The End?*(http://www.jetadams.com/tfbaott/chapter19/)
+...*on to* [**Chapter 19** *The End?*](http://www.jetadams.com/tfbaott/chapter19/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)

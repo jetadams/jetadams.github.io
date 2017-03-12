@@ -66,6 +66,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Recalculating mass index,” the wristband thought out. “...beginning fold.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At that moment the room snapped into place and stretched upwards. Tommy and Sabreen began floating through the gooey molasses that had once been the ceiling. To everyone else, they simply faded out of existence.<br>
 
-...*on to* **Chapter 16** *The Meeting*(http://www.jetadams.com/tfbaott/chapter16/)
+...*on to* [**Chapter 16** *The Meeting*](http://www.jetadams.com/tfbaott/chapter16/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
