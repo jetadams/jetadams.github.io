@@ -132,6 +132,6 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You sure you can really guide him through changing that circuitry without the other Nanites catching him?” the wristband asked.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I hope so,” Tommy replied. “As long as they can't see each other and I can see them, we have the advantage.”<br>
 
-...*on to* [**Chapter 8** *Klibold's Designs*](http://www.jetadams.com/tfbaott/chapter7/)
+...*on to* [**Chapter 8** *Klibold's Designs*](http://www.jetadams.com/tfbaott/chapter8/)
 
 [**Table of Contents**](http://www.jetadams.com/tfbaott/contents/)
