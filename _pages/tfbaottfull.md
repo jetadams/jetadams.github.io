@@ -1,5 +1,5 @@
 ---
-title: "The First Big Adventure of Tommy Twist - Full Text"
+title: "The First Big Adventure of Tommy Twist"
 permalink: /tfbaottfull/
 excerpt: "Tommy is your typical 10 year-old who just so happens to have an over-active sense of curiosity.<br>Lehnair is your typical, single eyed Morgangetter who is stuck working in a factory on a barren mining planet.<br>Tommy has never seen an alien, and Lehnair has never met an Earthling, but all of that is about change!"
 date: 2017-03-13
@@ -8,7 +8,7 @@ header:
 ---
 {% include toc title="Table of Contents" %}
 
-## The First Big Adventure of Tommy Twist
+## Information
 
 *Recommended for ages 4 and up.* **WARNING: CHOKING HAZARD.** *May contain pieces that are hard to swallow. In fact, if you're over a certain age it may not be for you either.* 
 
