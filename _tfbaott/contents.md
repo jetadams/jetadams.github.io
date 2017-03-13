@@ -15,6 +15,8 @@ All rights reserved. This book, or parts thereof, may not be reproduced in any f
 
 **_Cover art by Jeremy Adams and George Loch_**
 
+[**For the entire text in a single page click here**](http://www.jetadams.com/tfbaottfull/)
+
 # Table of Contents
 
 [**Chapter 1** *Lienhar*](http://www.jetadams.com/tfbaott/chapter1/)<br>
