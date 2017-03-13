@@ -1121,7 +1121,7 @@ All rights reserved. This book, or parts thereof, may not be reproduced in any f
 
 <center>&#42;&#42;&#42;</center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy got dinner that night, as well as what most kids would consider to be a pretty hefty punishment for running away. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy got dinner that night, as well as what most kids would consider to be a pretty hefty punishment. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His Dad explained over the kitchen table, “I hope you've learned that running away is never a good choice. It sounds like you had a pretty rough time out there in the cold.” He glanced at Mrs. Twist, and she nodded back confirming that now was as good a time as any. Leij sat quietly, enjoying her third helping of lemon chicken and potatoes. “We've decided that in order to help you understand why we should treat the people from my work so nicely, that we're going to take away your portion of what it is they give to our family.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tommy looked at his dad with a raised eyebrow. His parents rarely made sense until they got to the point.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What I'm saying is: we're going to take away your allowance for a few months. If you want any money, you're going to have to earn it by working around the house.”<br>
