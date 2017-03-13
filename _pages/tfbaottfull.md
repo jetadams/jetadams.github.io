@@ -1,5 +1,6 @@
 ---
 title: "The First Big Adventure of Tommy Twist - Full Text"
+permalink: /tfbaottfull/
 excerpt: "Tommy is your typical 10 year-old who just so happens to have an over-active sense of curiosity.<br>Lehnair is your typical, single eyed Morgangetter who is stuck working in a factory on a barren mining planet.<br>Tommy has never seen an alien, and Lehnair has never met an Earthling, but all of that is about change!"
 date: 2017-03-13
 header:
