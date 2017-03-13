@@ -1,6 +1,6 @@
 ---
 title: Chapter 14 *The Merger*
-date: 2017-03-11
+date: 2017-03-07
 header:
   image: /assets/images/tfbaottcover.jpg
   caption: "Copyright &copy; 2017"

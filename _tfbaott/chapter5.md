@@ -1,6 +1,6 @@
 ---
 title: Chapter 5 *The Manager*
-date: 2017-03-10
+date: 2017-02-26
 header:
   image: /assets/images/tfbaottcover.jpg
   caption: "Copyright &copy; 2017"
