@@ -1,5 +1,5 @@
 ---
-title: "*The First Big Adventure of Tommy Twist* Full Text Available"
+title: "*The First Big Adventure of Tommy Twist* - Full Text Available"
 excerpt: "You can now peruse the entire book from a single page."
 header:
   image: /assets/images/tfbaottcover.jpg
