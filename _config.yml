@@ -11,7 +11,7 @@ title                    : "JET Adams"
 title_separator          : "-"
 name                     : "Jeremy Adams"
 description              : "Home of The First Big Adventure of Tommy Twist."
-url                      : http://www.jetadams.com
+url                      : https://www.jetadams.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jetadams/jetadams.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
