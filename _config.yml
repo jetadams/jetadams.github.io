@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeremy Adams"
+  name             : # "Jeremy Adams"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Self-professed Tech blogger."
+  bio              : # "Self-professed Tech blogger."
   location         : # "Somewhere, HERE"
   email            :
   links:
